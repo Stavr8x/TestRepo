@@ -11,6 +11,7 @@
             else if (simbol==0) {alert('0');}
                 else {alert('-1');}
     </script>
-    <p>Задание из урока 2.10</p>
+    <p>Задание из урока 2.10,
+    Task is not avaleble</p>
 </body>
 </html>
