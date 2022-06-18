@@ -12,5 +12,6 @@
                 else {alert('-1');}
     </script>
     <p>Задание из урока 2.10</p>
+    Some very greate text.
 </body>
 </html>
