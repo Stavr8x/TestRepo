@@ -13,5 +13,6 @@
     </script>
     <p>Задание из урока 2.10,
     Task is not avaleble</p>
+    Fix_2 changes.
 </body>
 </html>
